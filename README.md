@@ -25,9 +25,11 @@
 `data_0.mat ~ data_6.mat`  데이터셋은 목표값이 지정되어있지 않습니다. 하지만, 직관적으로 클러스터의 개수를 판단할 수 있습니다.  `data_7.mat ~ data_9.mat` 데이터는 목표값이 데이터의 z축 값으로 표현됩니다. 예를 들어 $n \times 3$의 크기를 가질때, 데이터는 1~2 차원 까지 좌표축으로 표현되는 데이터값이며 3차원 데이터가 라벨 데이터입니다.
 
 ## Clustering Result
-기존 레퍼런스 논문에서 제안된 클러스터링 기법을 이용한 `data_7.mat` 군집 결과입니다.  [Delaunay triangulation-based spatial clustering techniques ](https://www.mdpi.com/1424-8220/19/18/3926) 
+제가 2019년도 제안했던 [DTSCAN 논문](https://www.mdpi.com/1424-8220/19/18/3926) 에서 평가 결과 일부를 첨부했습니다. 기존 레퍼런스 논문에서 제안된 클러스터링 기법을 이용한 `data_7.mat` 군집 결과입니다.
 
 ![title](./images/data_7_results.png)	
+
+
 
 
 
