@@ -4,10 +4,10 @@
 
 
 # 2D - DATASET
-|  Non labeled              |Filename                            |size                         |
+|  Non labeled              |Filename                            |size          |               
 |----------------|-------------------------------|-----------------------------|
-|<img src="./images/data_1.png">		|`data_0.mat`       | 300 x 2	|                 
-|<img src="./images/data_1.png" width="400" height="400">		|`data_1.mat`		| 600 x 2	|
+|![title](./images/data_0.png)		|`data_0.mat`       | 300 x 2	|                 
+|![title](./images/data_1.png)		|`data_1.mat`		| 600 x 2	|
 |![title](./images/data_2.png)		|`data_2.mat`		| 300 x 2	|     
 |![title](./images/data_3.png)		|`data_3.mat`     	| 1000 x 2	|                 
 |![title](./images/data_4.png)		|`data_4.mat`	 	| 1012 x 2	|
@@ -21,15 +21,13 @@
 |![title](./images/data_9.png)		|`data_9.mat`		| 300 x 3	|     
     
 
-## Switch to another file
+## Info
+`data_0.mat ~ data_6.mat`  데이터셋은 목표값이 지정되어있지 않습니다. 하지만, 직관적으로 클러스터의 개수를 판단할 수 있습니다.  `data_7.mat ~ data_9.mat` 데이터는 목표값이 데이터의 z축 값으로 표현됩니다. 예를 들어 $n \times 3$의 크기를 가질때, 데이터는 1~2 차원 까지 좌표축으로 표현되는 데이터값이며 3차원 데이터가 라벨 데이터입니다.
 
+## Clustering Result
+기존 레퍼런스 논문에서 제안된 클러스터링 기법을 이용한 `data_7.mat` 군집 결과입니다.  [Delaunay triangulation-based spatial clustering techniques ](https://www.mdpi.com/1424-8220/19/18/3926) 
 
-## Rename a file
+![title](./images/data_7_results.png)	
 
-
-## Delete a file
-
-
-## Export a file
 
 
