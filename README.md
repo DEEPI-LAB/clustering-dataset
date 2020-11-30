@@ -4,15 +4,22 @@
 
 
 # 2D - DATASET
-|                |Filename                            |size                         |
+|  Non labeled              |Filename                            |size                         |
 |----------------|-------------------------------|-----------------------------|
-|![title](./images/data_0.png)				|`data_0.mat`      | 300 x 2	|                 
-|![title](./images/data_1.png)		|`data_1.mat`			 	| 600 x 2	|
-|![ex_screenshot](./images/data_2.png)		|`data_2.mat`		     	| 300 x 2	|     
-|![ex_screenshot](./images/data_3.png)		|`data_3.mat`           	| 1000 x 2	|                 
-|![ex_screenshot](./images/data_4.png)		|`data_4.mat`			 	| 1012 x 2	|
-|![ex_screenshot](./images/data_5.png) 		|`data_5.mat`		     	| 1016 x 2	| 
-|![ex_screenshot](./images/data_6.png) 		|`data_6.mat`           	| 2000 x 2	|                 
+|![title](./images/data_0.png)		|`data_0.mat`       | 300 x 2	|                 
+|![title](./images/data_1.png)		|`data_1.mat`		| 600 x 2	|
+|![title](./images/data_2.png)		|`data_2.mat`		| 300 x 2	|     
+|![title](./images/data_3.png)		|`data_3.mat`     	| 1000 x 2	|                 
+|![title](./images/data_4.png)		|`data_4.mat`	 	| 1012 x 2	|
+|![title](./images/data_5.png)		|`data_5.mat`	   	| 1016 x 2	| 
+|![title](./images/data_6.png)		|`data_6.mat`     	| 2000 x 2	|             
+
+|  Hand labeled               |Filename                            |size                         |
+|----------------|-------------------------------|-----------------------------|
+|![title](./images/data_7.png)		|`data_7.mat`       | 788 x 3	|                 
+|![title](./images/data_8.png)		|`data_8.mat`		| 399 x 3	|
+|![title](./images/data_9.png)		|`data_9.mat`		| 300 x 3	|     
+    
 
 ## Switch to another file
 
@@ -24,5 +31,3 @@
 
 
 ## Export a file
-
-
