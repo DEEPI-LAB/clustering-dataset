@@ -6,7 +6,7 @@
 # 2D - DATASET
 |  Non labeled              |Filename                            |size                         |
 |----------------|-------------------------------|-----------------------------|
-|![title](./images/data_0.png)		|`data_0.mat`       | 300 x 2	|                 
+|<img src="./images/data_1.png" width="500" height="500">		|`data_0.mat`       | 300 x 2	|                 
 |<img src="./images/data_1.png" width="400" height="400">		|`data_1.mat`		| 600 x 2	|
 |![title](./images/data_2.png)		|`data_2.mat`		| 300 x 2	|     
 |![title](./images/data_3.png)		|`data_3.mat`     	| 1000 x 2	|                 
