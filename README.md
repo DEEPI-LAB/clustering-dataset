@@ -27,7 +27,7 @@
 ## Clustering Result
 제가 2019년도 제안했던 [DTSCAN 논문](https://www.mdpi.com/1424-8220/19/18/3926) 에서 평가 결과 일부를 첨부했습니다. 기존 레퍼런스 논문에서 제안된 클러스터링 기법을 이용한 `data_7.mat` 군집 결과입니다.
 
-![title](./images/results.png)	
+![title](./images/results.PNG)	
 
 
 
