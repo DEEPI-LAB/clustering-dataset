@@ -6,7 +6,7 @@
 # 2D - DATASET
 |                |Filename                            |size                         |
 |----------------|-------------------------------|-----------------------------|
-|![ex_screenshot](./images/data_0.png)	 	|`data_0.mat`           	| 300 x 2	|                 
+|![ex_screenshot](./images/data_0.png){: width="100" height="100"}	 	|`data_0.mat`           	| 300 x 2	|                 
 |![ex_screenshot](./images/data_1.png)		|`data_1.mat`			 	| 600 x 2	|
 |![ex_screenshot](./images/data_2.png)		|`data_2.mat`		     	| 300 x 2	|     
 |![ex_screenshot](./images/data_3.png)		|`data_3.mat`           	| 1000 x 2	|                 
@@ -24,3 +24,5 @@
 
 
 ## Export a file
+
+
